@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wilfred Kamau
 - 👀 I’m interested in Machine Learning, Data Science, AI and Web3.
-- 🌱 I’m currently learning MYSQL for database and React for frontend.
+- 🌱 I’m currently learning and exploring AIAgents.
 - 💞️ I’m looking to collaborate on building full scale Blockchain, Machine Learning and Data Science projects.
 - 📫 How to reach me kamaunjenga675@gmail.com
 - 😄 Pronouns: he/him/
